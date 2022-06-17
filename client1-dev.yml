@@ -1,4 +1,4 @@
 service:
-  name: Client1 Service
+  name: Client2 Service
 server:
   port: 8200
